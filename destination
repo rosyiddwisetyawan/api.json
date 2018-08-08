@@ -1,36 +1,42 @@
 {
   "destination": [
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Bali",
       "price": "Rp. 500.000"
     },
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Pekan Baru",
       "price": "Rp. 200.000"
     },
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Semarang",
       "price": "Rp. 200.000"
     },
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Lombok",
       "price": "Rp. 500.000"
     },
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Solo",
       "to": "Lombok",
       "price": "Rp. 700.000"
     },
     {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Palembang",
