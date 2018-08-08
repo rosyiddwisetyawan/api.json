@@ -1,31 +1,37 @@
 {
   "destination": [
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Bali",
       "price": "Rp. 500.000"
     },
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Pekan Baru",
       "price": "Rp. 200.000"
     },
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Semarang",
       "price": "Rp. 200.000"
     },
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Lombok",
       "price": "Rp. 500.000"
     },
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Solo",
       "to": "Lombok",
       "price": "Rp. 700.000"
     },
     {
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
       "start": "Jakarta",
       "to": "Palembang",
       "price": "Rp. 300.000"
