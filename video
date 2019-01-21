@@ -3,42 +3,42 @@
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Jakarta",
+      "tag": "Sport",
       "id": "01",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     },
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Jakarta",
+      "tag": "Islamic",
       "id": "02",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     },
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Jakarta",
+      "tag": "Economy",
       "id": "03",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     },
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Jakarta",
+      "tag": "News",
       "id": "04",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     },
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Solo",
+      "tag": "Culture",
       "id": "05",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     },
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "start": "Jakarta",
+      "tag": "Entertain",
       "id": "06",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     }
