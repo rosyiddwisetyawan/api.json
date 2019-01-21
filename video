@@ -38,8 +38,22 @@
     {
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
-      "tag": "Entertain",
+      "tag": "Sexy",
       "id": "06",
+      "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "World",
+      "id": "07",
+      "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Entertain",
+      "id": "08",
       "link": "http://202.43.169.35/ramadhan/hadits/01.mp4"
     }
   ]
