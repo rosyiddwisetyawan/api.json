@@ -1,0 +1,60 @@
+{
+  "destination": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Sport",
+      "id": "01",
+      "link": ""http://103.80.237.135/clips/cc-content/uploads/mobile/SpMZfqAhrsd4kOnu6XYq.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Islamic",
+      "id": "02",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/sa2H7v0p5RREbwm7dx3c.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Economy",
+      "id": "03",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/kLmicbFfg4ii0HUWKE2D.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "News",
+      "id": "04",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/gRt4aZQvBHABWyD1gCsu.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Culture",
+      "id": "05",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/fdnHkWJTION529R4B8gM.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Sexy",
+      "id": "06",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/gRt4aZQvBHABWyD1gCsu.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "World",
+      "id": "07",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/fdnHkWJTION529R4B8gM.mp4"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://www.w3schools.com/w3css/img_snowtops.jpg",
+      "tag": "Entertain",
+      "id": "08",
+      "link": "http://103.80.237.135/clips/cc-content/uploads/mobile/fdnHkWJTION529R4B8gM.mp4"
+    }
+  ]
+}
