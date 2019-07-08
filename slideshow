@@ -1,47 +1,23 @@
 {  
    "records":[  
       {  
-         "id":"2",
+         "id":"1",
          "title":"Bahaya Syirik..",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_2.png",
+         "url_image":"https://www.indonesia.travel/content/dam/indtravelrevamp/en/main-banner/homepage-june-2019/country/m_batam2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+         "desc":""
+      },
+      {  
+         "id":"2",
+         "title":"Pemimpin",
+         "url_image":"https://www.indonesia.travel//content/dam/indtravelrevamp/en/main-banner/homepage-june-2019/country/m_bali2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
          "desc":""
       },
       {  
          "id":"3",
-         "title":"Pemimpin",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_3.png",
-         "desc":""
-      },
-      {  
-         "id":"4",
          "title":"Jasa Kawan",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_1.png",
-         "desc":""
-      },
-      {  
-         "id":"5",
-         "title":"Gelas bekas istri",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_2.png",
-         "desc":""
-      },
-      {  
-         "id":"6",
-         "title":"4 tanda terkena fitnah",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_3.png",
-         "desc":""
-      },
-      {  
-         "id":"7",
-         "title":"Jangan meniru orang kafir",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_1.png",
-         "desc":""
-      },
-      {  
-         "id":"8",
-         "title":"Orang yang paling buruk",
-         "url_image":"http:\/\/202.43.169.35\/ramadhan\/wallpapper\/banner_2.png",
+         "url_image":"https://www.indonesia.travel/content/dam/indtravelrevamp/en/main-banner/homepage-june-2019/country/m_jakarta2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
          "desc":""
       }
    ],
-   "data_count":"8"
+   "data_count":"3"
 }
